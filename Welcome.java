@@ -1,6 +1,6 @@
 class Welcome {
     public static void main(String[] args) {
-        String name = "Mohan";
+        String name = "ASHWIN";
         System.out.println("Welcome " + name);
     }
 }
